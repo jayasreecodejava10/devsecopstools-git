@@ -16,6 +16,7 @@ public class service {
 		return x*y;
 	}
 	public static void main(String[] args) {
-		
+		int result=x*y;
+		System.out.println(result);
 	}
 }
